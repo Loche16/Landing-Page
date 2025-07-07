@@ -1,1 +1,1 @@
-# Landing-Page
+With this project I pretend to create a structured website, to put into practice my html and css knowledge.
